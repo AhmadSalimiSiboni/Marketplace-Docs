@@ -2,7 +2,6 @@
 # Marketplace System Architecture
 
 این فایل شامل تمام دیاگرام‌ها و جریان سیستم فروشگاه/Marketplace است.  
-تمام دیاگرام‌ها با **Mermaid** نوشته شده‌اند و قابل رندر در GitHub هستند.
 
 ---
 
