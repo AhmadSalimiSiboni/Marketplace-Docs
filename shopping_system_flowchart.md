@@ -1,4 +1,4 @@
-# Shopping System Flowchart
+# Shopping System Flowchart - Login & cart
 
 ```
 ┌─────────────────────────────┐
